@@ -1,0 +1,15 @@
+.fa {
+    padding: 10px;
+    font-size: 10px;
+    width: 10px;
+    border-radius: 50%;
+    }
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
+  #imgone, #imgtwo, #imgthree {
+    padding: 15px; /* Some padding */
+    width: 50%; /* Set a small width */
+    margin: auto;
+  }
